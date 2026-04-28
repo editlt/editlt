@@ -2,7 +2,7 @@
 
 # Hi, I'm Edit 👋
 
-**yo**
+**catcat**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40editlt-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/editlt)
 

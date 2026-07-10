@@ -2,8 +2,6 @@
 
 # Hi, I'm Edit 👋
 
-**catcat**
-
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40editlt-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/editlt)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/editlt.svg?variant=outline&size=sm)](https://github.com/editlt?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/editlt.svg?variant=secondary&size=sm)](https://github.com/editlt?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-15-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/editlt?tab=repositories)
